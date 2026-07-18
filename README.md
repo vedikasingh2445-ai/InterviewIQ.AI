@@ -1,4 +1,4 @@
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 12 41 PM" src="https://github.com/user-attachments/assets/e612deb3-a4fd-434a-adf6-9adba5cedaa2" /># 🎯 InterviewIQ.AI
+# 🎯 InterviewIQ.AI
 
 > An AI-powered mock interview platform that conducts realistic technical interviews based on the candidate's resume and provides detailed performance analysis with AI-generated feedback.
 
@@ -263,45 +263,41 @@ Detailed Performance Report
 
 ## Home
 
-```
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 10 35 PM" src="https://github.com/user-attachments/assets/fd3f30e9-e831-4885-afdf-d1384402bf69" />
-```
+
+<img width="800" height="500" alt="Screenshot 2026-07-18 at 7 10 35 PM" src="https://github.com/user-attachments/assets/fd3f30e9-e831-4885-afdf-d1384402bf69" />
 
 ---
 
 ## Dashboard
 
-```
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 11 17 PM" src="https://github.com/user-attachments/assets/10beebdc-904a-4a9c-800f-d63b3292fe50" />
 
-```
+<img width="800" height="500" alt="Screenshot 2026-07-18 at 7 11 17 PM" src="https://github.com/user-attachments/assets/10beebdc-904a-4a9c-800f-d63b3292fe50" />
+
 
 ---
 
 ## Interview Page
 
-```
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 12 03 PM" src="https://github.com/user-attachments/assets/3ed120c7-1587-4eb7-9123-0f213c11d6ca" />
 
-```
+<img width="800" height="500" alt="Screenshot 2026-07-18 at 7 12 03 PM" src="https://github.com/user-attachments/assets/3ed120c7-1587-4eb7-9123-0f213c11d6ca" />
+
+
 
 ---
 
 ## History Page
 
 
-```
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 13 22 PM" src="https://github.com/user-attachments/assets/7e4d224e-9e87-42c6-8a0b-77b90d8adad7" />
 
-```
+<img width="800" height="500" alt="Screenshot 2026-07-18 at 7 13 22 PM" src="https://github.com/user-attachments/assets/7e4d224e-9e87-42c6-8a0b-77b90d8adad7" />
+
+
 ---
 
 ## AI Report
 
-```
-<img width="1440" height="900" alt="Screenshot 2026-07-18 at 7 13 04 PM" src="https://github.com/user-attachments/assets/71635526-f9a9-4af4-9bf9-544fc720734e" />
+<img width="800" height="500" alt="Screenshot 2026-07-18 at 7 13 04 PM" src="https://github.com/user-attachments/assets/71635526-f9a9-4af4-9bf9-544fc720734e" />
 
-```
 
 ---
 
